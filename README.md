@@ -1,2 +1,2 @@
 # LawLuo
-[LawLuo](https://github.com/NEFUJing/LawLuo)
+[LawLuo projectpage](https://github.com/NEFUJing/LawLuo)
